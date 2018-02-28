@@ -6,7 +6,7 @@ namespace _4_11
     /// <summary>
     /// Interaction logic for MainWindow.xaml
     /// </summary>
-    public partial class MainWindow : Window
+    public partial class MainWindow
     {
         public MainWindow()
         {
@@ -15,16 +15,30 @@ namespace _4_11
 
         private void BerekenButton_OnClick(object sender, RoutedEventArgs e)
         {
-            int nummer = Convert.ToInt16(NummerTextBox.Text);
-            if (nummer > 0 && nummer < 255)
+            int number = Convert.ToInt32(NumberTextBox.Text);
+            if (number > 0 && number < 256)
             {
-                string binary = Convert.ToString(nummer, 2);
-                BinairLabel.Content = binary;
+                BinairLabel.Content = BerekenBinair(number);
             }
             else
             {
                 BinairLabel.Content = "NAN";
             }
+        }
+
+        private static string BerekenBinair(int number)
+        {
+            string binary = string.Empty;
+
+            while (number>0)
+            {
+                int remainder = number % 2;
+                number = number / 2;
+                binary = remainder + binary; 
+            }
+            
+
+            return binary;
         }
     }
 }
