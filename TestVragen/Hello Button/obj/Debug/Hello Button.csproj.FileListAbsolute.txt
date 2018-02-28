@@ -1,0 +1,14 @@
+C:\NetEss\Oefeningen\h02\Hello Button\bin\Debug\Hello Button.exe.config
+C:\NetEss\Oefeningen\h02\Hello Button\bin\Debug\Hello Button.exe
+C:\NetEss\Oefeningen\h02\Hello Button\bin\Debug\Hello Button.pdb
+C:\NetEss\Oefeningen\h02\Hello Button\obj\Debug\Hello Button.csprojResolveAssemblyReference.cache
+C:\NetEss\Oefeningen\h02\Hello Button\obj\Debug\MainWindow.g.cs
+C:\NetEss\Oefeningen\h02\Hello Button\obj\Debug\App.g.cs
+C:\NetEss\Oefeningen\h02\Hello Button\obj\Debug\Hello Button_MarkupCompile.cache
+C:\NetEss\Oefeningen\h02\Hello Button\obj\Debug\MainWindow.baml
+C:\NetEss\Oefeningen\h02\Hello Button\obj\Debug\Hello Button.g.resources
+C:\NetEss\Oefeningen\h02\Hello Button\obj\Debug\Hello_Button.Properties.Resources.resources
+C:\NetEss\Oefeningen\h02\Hello Button\obj\Debug\Hello Button.csproj.GenerateResource.Cache
+C:\NetEss\Oefeningen\h02\Hello Button\obj\Debug\Hello Button.csproj.CoreCompileInputs.cache
+C:\NetEss\Oefeningen\h02\Hello Button\obj\Debug\Hello Button.exe
+C:\NetEss\Oefeningen\h02\Hello Button\obj\Debug\Hello Button.pdb

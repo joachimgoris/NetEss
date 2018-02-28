@@ -1,0 +1,15 @@
+C:\NetEss\Oefeningen\h04\4_9\bin\Debug\4_9.exe.config
+C:\NetEss\Oefeningen\h04\4_9\bin\Debug\4_9.exe
+C:\NetEss\Oefeningen\h04\4_9\bin\Debug\4_9.pdb
+C:\NetEss\Oefeningen\h04\4_9\obj\Debug\4_9.csprojResolveAssemblyReference.cache
+C:\NetEss\Oefeningen\h04\4_9\obj\Debug\MainWindow.g.cs
+C:\NetEss\Oefeningen\h04\4_9\obj\Debug\App.g.cs
+C:\NetEss\Oefeningen\h04\4_9\obj\Debug\4_9_MarkupCompile.cache
+C:\NetEss\Oefeningen\h04\4_9\obj\Debug\4_9_MarkupCompile.lref
+C:\NetEss\Oefeningen\h04\4_9\obj\Debug\MainWindow.baml
+C:\NetEss\Oefeningen\h04\4_9\obj\Debug\4_9.g.resources
+C:\NetEss\Oefeningen\h04\4_9\obj\Debug\_4_9.Properties.Resources.resources
+C:\NetEss\Oefeningen\h04\4_9\obj\Debug\4_9.csproj.GenerateResource.Cache
+C:\NetEss\Oefeningen\h04\4_9\obj\Debug\4_9.csproj.CoreCompileInputs.cache
+C:\NetEss\Oefeningen\h04\4_9\obj\Debug\4_9.exe
+C:\NetEss\Oefeningen\h04\4_9\obj\Debug\4_9.pdb

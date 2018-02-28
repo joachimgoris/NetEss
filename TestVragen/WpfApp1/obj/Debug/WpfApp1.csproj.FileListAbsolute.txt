@@ -1,0 +1,15 @@
+C:\NetEss\TestVragen\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\NetEss\TestVragen\WpfApp1\bin\Debug\WpfApp1.exe
+C:\NetEss\TestVragen\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\NetEss\TestVragen\WpfApp1\obj\Debug\WpfApp1.csprojResolveAssemblyReference.cache
+C:\NetEss\TestVragen\WpfApp1\obj\Debug\MainWindow.g.cs
+C:\NetEss\TestVragen\WpfApp1\obj\Debug\App.g.cs
+C:\NetEss\TestVragen\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\NetEss\TestVragen\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\NetEss\TestVragen\WpfApp1\obj\Debug\MainWindow.baml
+C:\NetEss\TestVragen\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\NetEss\TestVragen\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\NetEss\TestVragen\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.Cache
+C:\NetEss\TestVragen\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+C:\NetEss\TestVragen\WpfApp1\obj\Debug\WpfApp1.exe
+C:\NetEss\TestVragen\WpfApp1\obj\Debug\WpfApp1.pdb
