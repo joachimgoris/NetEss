@@ -1,0 +1,13 @@
+C:\NetEss\boekCode\h06\Oval Shape\bin\Debug\Oval Shape.exe.config
+C:\NetEss\boekCode\h06\Oval Shape\bin\Debug\Oval Shape.exe
+C:\NetEss\boekCode\h06\Oval Shape\bin\Debug\Oval Shape.pdb
+C:\NetEss\boekCode\h06\Oval Shape\obj\Debug\MainWindow.baml
+C:\NetEss\boekCode\h06\Oval Shape\obj\Debug\MainWindow.g.cs
+C:\NetEss\boekCode\h06\Oval Shape\obj\Debug\App.g.cs
+C:\NetEss\boekCode\h06\Oval Shape\obj\Debug\Oval Shape_MarkupCompile.cache
+C:\NetEss\boekCode\h06\Oval Shape\obj\Debug\Oval Shape.g.resources
+C:\NetEss\boekCode\h06\Oval Shape\obj\Debug\Oval_Shape.Properties.Resources.resources
+C:\NetEss\boekCode\h06\Oval Shape\obj\Debug\Oval Shape.csproj.GenerateResource.Cache
+C:\NetEss\boekCode\h06\Oval Shape\obj\Debug\Oval Shape.csproj.CoreCompileInputs.cache
+C:\NetEss\boekCode\h06\Oval Shape\obj\Debug\Oval Shape.exe
+C:\NetEss\boekCode\h06\Oval Shape\obj\Debug\Oval Shape.pdb

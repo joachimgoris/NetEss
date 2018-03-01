@@ -1,0 +1,14 @@
+C:\NetEss\TestVragen\SliderDemo\bin\Debug\SliderDemo.exe.config
+C:\NetEss\TestVragen\SliderDemo\bin\Debug\SliderDemo.exe
+C:\NetEss\TestVragen\SliderDemo\bin\Debug\SliderDemo.pdb
+C:\NetEss\TestVragen\SliderDemo\obj\Debug\SliderDemo.csprojResolveAssemblyReference.cache
+C:\NetEss\TestVragen\SliderDemo\obj\Debug\MainWindow.g.cs
+C:\NetEss\TestVragen\SliderDemo\obj\Debug\App.g.cs
+C:\NetEss\TestVragen\SliderDemo\obj\Debug\SliderDemo_MarkupCompile.cache
+C:\NetEss\TestVragen\SliderDemo\obj\Debug\MainWindow.baml
+C:\NetEss\TestVragen\SliderDemo\obj\Debug\SliderDemo.g.resources
+C:\NetEss\TestVragen\SliderDemo\obj\Debug\SliderDemo.Properties.Resources.resources
+C:\NetEss\TestVragen\SliderDemo\obj\Debug\SliderDemo.csproj.GenerateResource.Cache
+C:\NetEss\TestVragen\SliderDemo\obj\Debug\SliderDemo.csproj.CoreCompileInputs.cache
+C:\NetEss\TestVragen\SliderDemo\obj\Debug\SliderDemo.exe
+C:\NetEss\TestVragen\SliderDemo\obj\Debug\SliderDemo.pdb
