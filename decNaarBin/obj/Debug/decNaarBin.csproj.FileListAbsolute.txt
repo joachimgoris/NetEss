@@ -1,7 +1,0 @@
-C:\NetEss\decNaarBin\bin\Debug\decNaarBin.exe.config
-C:\NetEss\decNaarBin\bin\Debug\decNaarBin.exe
-C:\NetEss\decNaarBin\bin\Debug\decNaarBin.pdb
-C:\NetEss\decNaarBin\obj\Debug\decNaarBin.csprojResolveAssemblyReference.cache
-C:\NetEss\decNaarBin\obj\Debug\decNaarBin.csproj.CoreCompileInputs.cache
-C:\NetEss\decNaarBin\obj\Debug\decNaarBin.exe
-C:\NetEss\decNaarBin\obj\Debug\decNaarBin.pdb
