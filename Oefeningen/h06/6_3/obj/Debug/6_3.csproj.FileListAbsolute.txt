@@ -1,0 +1,15 @@
+C:\NetEss\h06\6_3\bin\Debug\6_3.exe.config
+C:\NetEss\h06\6_3\bin\Debug\6_3.exe
+C:\NetEss\h06\6_3\bin\Debug\6_3.pdb
+C:\NetEss\h06\6_3\obj\Debug\6_3.csprojResolveAssemblyReference.cache
+C:\NetEss\h06\6_3\obj\Debug\MainWindow.g.cs
+C:\NetEss\h06\6_3\obj\Debug\App.g.cs
+C:\NetEss\h06\6_3\obj\Debug\6_3_MarkupCompile.cache
+C:\NetEss\h06\6_3\obj\Debug\6_3_MarkupCompile.lref
+C:\NetEss\h06\6_3\obj\Debug\MainWindow.baml
+C:\NetEss\h06\6_3\obj\Debug\6_3.g.resources
+C:\NetEss\h06\6_3\obj\Debug\_6_3.Properties.Resources.resources
+C:\NetEss\h06\6_3\obj\Debug\6_3.csproj.GenerateResource.Cache
+C:\NetEss\h06\6_3\obj\Debug\6_3.csproj.CoreCompileInputs.cache
+C:\NetEss\h06\6_3\obj\Debug\6_3.exe
+C:\NetEss\h06\6_3\obj\Debug\6_3.pdb

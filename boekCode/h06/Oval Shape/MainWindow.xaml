@@ -17,6 +17,6 @@
                 Width="250" Name="HorizSlider" Value="10"/>
 
         <Slider HorizontalAlignment="Left" Margin="88,20,0,0" VerticalAlignment="Top"
-                Height="250" Name="VertSlider" Orientation="Vertical"/>
+                Height="250" Name="VertSlider" Orientation="Vertical" Value="10" IsDirectionReversed="True"/>
     </Grid>
 </Window>
