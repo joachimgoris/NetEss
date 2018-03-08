@@ -3,10 +3,11 @@
         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
         xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
-        xmlns:local="clr-namespace:_6_11"
         mc:Ignorable="d"
-        Title="MainWindow" Height="350" Width="525">
+        Title="6_11" Height="350" Width="525" Loaded="Window_Loaded">
     <Grid>
-        
+        <Label Name="digitalClockLabel" Content="Label" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="10,36,0,0"/>
+        <Canvas Name="analogClockCanvas" HorizontalAlignment="Left" Height="100" Margin="129,154,0,0" VerticalAlignment="Top" Width="100" Background="LightGray"/>
+
     </Grid>
 </Window>
