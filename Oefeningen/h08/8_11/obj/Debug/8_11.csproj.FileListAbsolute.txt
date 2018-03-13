@@ -1,0 +1,7 @@
+D:\NetEss\Oefeningen\h08\8_11\bin\Debug\8_11.exe.config
+D:\NetEss\Oefeningen\h08\8_11\bin\Debug\8_11.exe
+D:\NetEss\Oefeningen\h08\8_11\bin\Debug\8_11.pdb
+D:\NetEss\Oefeningen\h08\8_11\obj\Debug\8_11.csprojResolveAssemblyReference.cache
+D:\NetEss\Oefeningen\h08\8_11\obj\Debug\8_11.csproj.CoreCompileInputs.cache
+D:\NetEss\Oefeningen\h08\8_11\obj\Debug\8_11.exe
+D:\NetEss\Oefeningen\h08\8_11\obj\Debug\8_11.pdb
