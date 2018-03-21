@@ -1,0 +1,7 @@
+C:\NetEss\TestVragen\11_1\oefening\bin\Debug\oefening.exe.config
+C:\NetEss\TestVragen\11_1\oefening\bin\Debug\oefening.exe
+C:\NetEss\TestVragen\11_1\oefening\bin\Debug\oefening.pdb
+C:\NetEss\TestVragen\11_1\oefening\obj\Debug\oefening.csprojResolveAssemblyReference.cache
+C:\NetEss\TestVragen\11_1\oefening\obj\Debug\oefening.csproj.CoreCompileInputs.cache
+C:\NetEss\TestVragen\11_1\oefening\obj\Debug\oefening.exe
+C:\NetEss\TestVragen\11_1\oefening\obj\Debug\oefening.pdb
