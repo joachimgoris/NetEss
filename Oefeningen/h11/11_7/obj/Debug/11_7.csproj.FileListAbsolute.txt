@@ -1,0 +1,15 @@
+D:\NetEss\Oefeningen\h11\11_7\obj\Debug\11_7.csprojResolveAssemblyReference.cache
+D:\NetEss\Oefeningen\h11\11_7\obj\Debug\MainWindow.g.cs
+D:\NetEss\Oefeningen\h11\11_7\obj\Debug\App.g.cs
+D:\NetEss\Oefeningen\h11\11_7\obj\Debug\11_7_MarkupCompile.cache
+D:\NetEss\Oefeningen\h11\11_7\obj\Debug\11_7_MarkupCompile.lref
+D:\NetEss\Oefeningen\h11\11_7\bin\Debug\11_7.exe.config
+D:\NetEss\Oefeningen\h11\11_7\bin\Debug\11_7.exe
+D:\NetEss\Oefeningen\h11\11_7\bin\Debug\11_7.pdb
+D:\NetEss\Oefeningen\h11\11_7\obj\Debug\MainWindow.baml
+D:\NetEss\Oefeningen\h11\11_7\obj\Debug\11_7.g.resources
+D:\NetEss\Oefeningen\h11\11_7\obj\Debug\_11_7.Properties.Resources.resources
+D:\NetEss\Oefeningen\h11\11_7\obj\Debug\11_7.csproj.GenerateResource.cache
+D:\NetEss\Oefeningen\h11\11_7\obj\Debug\11_7.csproj.CoreCompileInputs.cache
+D:\NetEss\Oefeningen\h11\11_7\obj\Debug\11_7.exe
+D:\NetEss\Oefeningen\h11\11_7\obj\Debug\11_7.pdb

@@ -1,18 +1,5 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Runtime.CompilerServices;
-using System.Text;
-using System.Threading.Tasks;
 using System.Windows;
-using System.Windows.Controls;
-using System.Windows.Data;
-using System.Windows.Documents;
-using System.Windows.Input;
-using System.Windows.Media;
-using System.Windows.Media.Imaging;
-using System.Windows.Navigation;
-using System.Windows.Shapes;
 
 namespace _11_7
 {
@@ -21,24 +8,33 @@ namespace _11_7
     /// </summary>
     public partial class MainWindow : Window
     {
+        Wekker w = new Wekker();
         public MainWindow()
         {
-            InitializeComponent();
+            main = this;
+            
+            w.timer.Tick += w.Timer_Tick;
+            w.Start_Timer();
+            
         }
 
-        void SetTijdLabel(string input)
+        internal static MainWindow main;
+
+        internal string TijdLabel
         {
-            this.tijdLabel.Content = input;
+            get => tijdLabel.Content.ToString();
+            set { Dispatcher.Invoke(() => { tijdLabel.Content = value; }); }
         }
 
-        string getTijdTextbox()
+        internal string TijdTextbox
         {
-            return this.tijdTextbox.Text;
+            get => tijdTextbox.Text;
+            set { Dispatcher.Invoke(() => { tijdTextbox.Text = value; }); }
         }
 
         private void alarmButton_Click(object sender, RoutedEventArgs e)
         {
-
+            w.BeepAlarm();
         }
     }
 }
