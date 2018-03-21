@@ -1,12 +1,6 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace oefening
+﻿namespace oefening
 {
-    class Dog : Animal
+    internal class Dog : Animal
     {
         public Dog(string name) : base(name) { }
 

@@ -1,29 +1,31 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace oefening
+﻿    namespace oefening
 {
-    class Animal
+    internal abstract class Animal
     {
         protected string Name;
 
-        public Animal()
+        protected Animal()
         {
         }
 
-        public Animal(string name)
+        protected Animal(string name)
         {
-            this.Name = name;
+            Name = name;
         }
 
-        public virtual string Sound()
+        public abstract string Sound();
+        
+
+        public override string ToString()
         {
-            return "huh?"; 
+            return $"Naam: '{GetName}' Sound: '{Sound()}'";
         }
 
-        public string name { get; set; }
+        public string GetName => Name;
+
+        public void SetName(string name)
+        {
+            Name = name;
+        }        
     }
 }

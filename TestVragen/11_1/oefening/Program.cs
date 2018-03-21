@@ -1,34 +1,35 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Runtime.CompilerServices;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace oefening
 {
-    class Program
+    internal class Program
     {
-        static void Main(string[] args)
+        private static void Main()
         {
-            Animal anim1, anim2, anim3;
-            anim1 = new Animal("Woefie");
-            anim2 = new Dog("Pluto");
-            anim3 = new SmallDog("Fifike");
+            Animal anim2 = new Dog("Pluto");
+            Animal anim3 = new SmallDog("Fifike");
 
-            PrintAnimal(anim1);
+            //PrintAnimal(anim1);
             PrintAnimal(anim2);
             PrintAnimal(anim3);
+
+            //Console.WriteLine(anim1.ToString());
+            Console.WriteLine(anim2.ToString());
+            Console.WriteLine(anim3.ToString());
+
+            anim2.SetName("Tibo");
+            Console.WriteLine(anim2.GetName);
 
             Console.ReadLine();
         }
 
         private static void PrintAnimal(Animal anim)
         {
-            string line = String.Format("animal ({0}) sounds as: {1}", anim.name, anim.Sound());
-
+            string line = $"animal ({anim.GetName}) sounds as: {anim.Sound()}";
+            
             Console.WriteLine(line);
         }
         
+
     }
 }
