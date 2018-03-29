@@ -30,13 +30,15 @@ namespace _11_7
             MainWindow.main.TijdLabel = (TijdNu.Hour+" "+TijdNu.Minute+" "+TijdNu.Second);
         }
 
-        public void BeepAlarm()
+        public void BeepAlarm(int hour, int minute, int second)
         {
-            
-            AlarmTimer.Interval = new TimeSpan(0,0,0,0,500);
-            AlarmTimer.Tick += Beep;
-            AlarmTimer.Start();
-            StartAlarm = TijdNu;
+            if (TijdNu.Hour.Equals(hour) && TijdNu.Minute.Equals(minute) && TijdNu.Second.Equals(second))
+            {
+                AlarmTimer.Interval = new TimeSpan(0, 0, 0, 0, 500);
+                AlarmTimer.Tick += Beep;
+                AlarmTimer.Start();
+                StartAlarm = TijdNu;
+            }
         }
 
         public void Beep(object sender, EventArgs e)

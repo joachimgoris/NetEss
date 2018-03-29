@@ -34,7 +34,8 @@ namespace _11_7
 
         private void alarmButton_Click(object sender, RoutedEventArgs e)
         {
-            w.BeepAlarm();
+            DateTime startTijd = Convert.ToDateTime(tijdTextbox.Text);
+            w.BeepAlarm(startTijd.Hour,startTijd.Minute,startTijd.Second);
         }
     }
 }
